@@ -3,7 +3,7 @@
 **Thick Concept, Thin Consensus: Normative Judgments in Estimating Inequality of Opportunity**
 
 Author: Moritz Hörl  
-Date: 2025
+Date: 2026
 
 ---
 
@@ -17,7 +17,6 @@ This repository contains the data and code required to replicate all empirical r
 replication-package/
 │
 ├── README.md                 ← This file
-├── LICENSE                   ← License for replication materials
 ├── CODEBOOK.md               ← Variable definitions and survey instrument details
 │
 ├── code/
