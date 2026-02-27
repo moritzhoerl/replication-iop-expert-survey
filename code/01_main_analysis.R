@@ -8,8 +8,8 @@
 #
 # Data:         Replication shallow meritocracy_expert_sample.csv
 #
-# Author:       [Author Name]
-# Date:         [Date]
+# Author:      Moritz Hörl
+# Date:        27.02.2027
 # Software:     R >= 4.0
 ###############################################################################
 
