@@ -150,9 +150,9 @@ All p-values are Holm–Bonferroni adjusted for three primary comparisons.
 
 ```
 Hörl, M. (2026). Thick Concept, Thin Consensus: Normative Judgments in Estimating
-Inequality of Opportunity. [Journal], [Volume], [Pages].
+Inequality of Opportunity.
 ```
 
 ## Contact
 
-For questions about the data or code, please contact: moritz.hoerl@[your institution].edu
+For questions about the data or code, please contact: moritz.hoerl@wu.ac.at
